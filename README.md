@@ -4,9 +4,11 @@ bookstore management system is a database designed with a  goal to stores inform
 
 objectives 
 
-Allow analysis of customer purchasing trends, popular books, and revenue.
-Enable efficient data storage and retrieval.
-Improve operational workflows, like inventory management and shipping.
+1.Allow analysis of customer purchasing trends, popular books, and revenue.
+
+2.Enable efficient data storage and retrieval.
+
+3.Improve operational workflows, like inventory management and shipping.
 
 
 
